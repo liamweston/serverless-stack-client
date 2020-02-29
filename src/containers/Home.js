@@ -55,8 +55,8 @@ export default function Home(props) {
   function renderLander() {
     return (
       <div className="lander">
-        <h1>Scratch</h1>
-        <p>A simple note taking app</p>
+        <h1>entrusted.to</h1>
+        <p>Because it's too late to tell them when you're gone...</p>
       </div>
     );
   }
